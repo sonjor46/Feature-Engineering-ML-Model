@@ -1,0 +1,41 @@
+user_id,signup_date,age,subscription_tier,primary_genre,daily_listen_mins,songs_skipped_per_day,playlists_created,device_type,churn_risk
+SW-1001,2023-01-15,24,Free,Hip-Hop,45.0,18,1,Mobile,1
+SW-1002,2022-11-04,38,Gold,Rock,130.0,4,8,Desktop,0
+SW-1003,2023-03-20,29,Silver,Pop,85.0,9,4,Mobile,0
+SW-1004,2021-08-12,45,Gold,Jazz,150.0,3,12,Smart Speaker,0
+SW-1005,2023-05-28,19,Free,Electronic,35.0,22,0,Mobile,1
+SW-1006,2022-07-10,32,Bronze,Pop,65.0,12,3,Mobile,0
+SW-1007,2023-02-14,27,Free,Hip-Hop,50.0,16,1,Mobile,1
+SW-1008,2021-12-05,52,Gold,Rock,140.0,5,10,Desktop,0
+SW-1009,2023-06-18,34,Silver,Electronic,90.0,8,5,Desktop,0
+SW-1010,2022-04-22,41,Bronze,Jazz,55.0,14,2,Smart Speaker,0
+SW-1011,2023-07-02,21,Free,Pop,40.0,20,1,Mobile,1
+SW-1012,2022-09-15,36,Gold,Hip-Hop,125.0,6,7,Mobile,0
+SW-1013,2023-04-05,26,Bronze,Rock,60.0,11,2,Desktop,0
+SW-1014,2021-10-28,48,Gold,Jazz,165.0,2,14,Smart Speaker,0
+SW-1015,2023-08-11,31,Silver,Pop,95.0,7,6,Mobile,0
+SW-1016,2022-03-01,23,Free,Electronic,30.0,25,0,Mobile,1
+SW-1017,2021-06-19,55,Gold,Rock,155.0,4,11,Desktop,0
+SW-1018,2023-09-01,28,Bronze,Hip-Hop,70.0,10,3,Mobile,0
+SW-1019,2022-12-12,43,Silver,Jazz,105.0,6,5,Smart Speaker,0
+SW-1020,2023-10-18,22,Free,Pop,42.0,19,1,Mobile,1
+SW-1021,2022-05-16,35,Silver,Rock,88.0,8,4,Desktop,0
+SW-1022,2021-11-08,50,Gold,Electronic,145.0,5,9,Smart Speaker,0
+SW-1023,2023-03-02,25,Bronze,Hip-Hop,62.0,13,2,Mobile,0
+SW-1024,2022-08-25,40,Gold,Pop,135.0,4,8,Desktop,0
+SW-1025,2023-07-20,33,Silver,Jazz,100.0,7,5,Mobile,0
+SW-1026,2022-02-11,28,Free,Rock,38.0,21,1,Mobile,1
+SW-1027,2021-09-06,47,Gold,Hip-Hop,160.0,3,13,Desktop,0
+SW-1028,2023-08-28,20,Free,Pop,25.0,24,0,Mobile,1
+SW-1029,2022-10-15,39,Silver,Electronic,92.0,8,6,Smart Speaker,0
+SW-1030,2023-05-09,30,Bronze,Rock,68.0,12,3,Mobile,0
+SW-1031,2022-01-24,44,Gold,Jazz,138.0,4,9,Smart Speaker,0
+SW-1032,2023-11-01,26,Free,Hip-Hop,48.0,17,1,Mobile,1
+SW-1033,2021-07-12,53,Gold,Pop,170.0,2,15,Desktop,0
+SW-1034,2023-04-16,30,Silver,Rock,82.0,9,4,Mobile,0
+SW-1035,2022-06-05,42,Silver,Electronic,98.0,7,5,Desktop,0
+SW-1036,2023-09-28,22,Free,Pop,36.0,23,0,Mobile,1
+SW-1037,2022-11-21,37,Gold,Hip-Hop,128.0,5,8,Mobile,0
+SW-1038,2021-12-28,58,Gold,Rock,175.0,3,16,Desktop,0
+SW-1039,2023-06-22,27,Bronze,Jazz,58.0,15,2,Smart Speaker,0
+SW-1040,2022-09-02,46,Silver,Electronic,110.0,6,6,Desktop,0
